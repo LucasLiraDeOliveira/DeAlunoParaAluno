@@ -29,17 +29,18 @@
 
 #include <stdio.h>
 
-struct horario    // Definicao da struct horario
-{
-    int horas;    // O que contera' na struct, pode ser qualquer coisa
-    int minutos;
-    int segundos;
-};
-
 int main(void)
 {   
+    struct horario    // Definicao da struct horario
+    {
+        int horas;    // O que contera' na struct, pode ser qualquer coisa
+        int minutos;
+        int segundos;
+    }agora, proxima = {10, 20, 30};   // Outra maneira de se declarar a struct agora e a struct proxima
 
-    struct horario agora; // Declaracao da struct agora, do tipo horario
+//    struct horario proxima = {10, 20, 30};  // Outra maneira
+//    struct horario proxima = {.segundos = 10, .horas = 20, .minutos = 40};   // Outra forma
+//    struct horario agora; // Declaracao da struct agora, do tipo horario
 
     agora.horas = 15;     // Atribuicao de valores as partes da struct, ex.: agora.horas
     agora.minutos = 17;
