@@ -1,0 +1,7 @@
+aula 47 = concatenar strings
+aula 48 = declarar strings
+aula 49 = contar caracteres de uma string
+aula 51 = verificar se duas strings são iguais
+aula 52 = obter duas strings sem getchar()
+aula 53 = obter string ilimitas com getchar()
+aula 5x = 
