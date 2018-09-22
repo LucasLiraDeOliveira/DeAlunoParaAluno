@@ -1,0 +1,6 @@
+aula 39 = introducao a struct
+aula 40 = manipulando struct
+aula 42 = passar e receber struct a uma funcao
+aula 43 = formas de inicializar uma struct
+aula 44 = vetores de struct
+aula 45 = revisao de structs
