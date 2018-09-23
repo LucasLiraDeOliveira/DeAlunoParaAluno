@@ -5,4 +5,4 @@ aula 51 = verificar se duas strings são iguais
 aula 52 = obter duas strings sem getchar()
 aula 53 = obter string ilimitas com getchar()
 aula 54 = verificar os caracteres de uma string (se e' letra ou nao)
-aula 5x = 
+aula 59 = procurar palavra em banco de dados(revisao de struct, string, e funcoes)
